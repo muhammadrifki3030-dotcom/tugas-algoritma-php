@@ -1,8 +1,8 @@
 # Tugas Algoritma dan Pemrograman
 
-**Nama:** [ MUHAMMAD RIFKI ]  
-**NIM:** [ 25105110005 ]  
-**Kelas:** [ TEKNIK INFORMATIKA D3 ]
+**Nama:** [MUHAMMAD RIFKI]  
+**NIM:** [25105110005]  
+**Kelas:** [TEKNIK INFORMATIKA D3]
 
 ---
 
@@ -33,13 +33,30 @@ Program ini digunakan untuk menghitung total pembayaran belanja dengan sistem di
 - **Riwayat Transaksi** - Menyimpan 10 transaksi terakhir
 - **Responsive Design** - Tampilan menyesuaikan di berbagai ukuran layar
 
---
+---
 
-## Cara menjalankan
+## Ketentuan Diskon
+
+| Total Belanja | Diskon |
+|---------------|--------|
+| ≥ Rp 100.000 | 5% |
+| ≥ Rp 200.000 | 10% |
+| ≥ Rp 300.000 | 15% |
+| ≥ Rp 500.000 | 20% |
+
+| Jenis Member | Diskon Tambahan |
+|--------------|-----------------|
+| Silver | 5% |
+| Gold | 10% |
+| Platinum | 15% |
+
+- **Hari Spesial**: Tambahan diskon 10%
+- **Maksimal Diskon**: 50%
+
+---
+
+## Cara Menjalankan
+
 1. Clone repository ini:
-  ```bash
-https://github.com/muhammadrifki3030-dotcom/tugas-algoritma-php.git
-
-## Sreenshot
-
-![Tampilan Program](sreenshot.png)
+   ```bash
+   git clone https://github.com/muhammadrifki3030-dotcom/tugas-algoritma-php.git
