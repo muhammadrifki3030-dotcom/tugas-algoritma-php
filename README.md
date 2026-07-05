@@ -60,3 +60,11 @@ Program ini digunakan untuk menghitung total pembayaran belanja dengan sistem di
 1. Clone repository ini:
    ```bash
    git clone https://github.com/muhammadrifki3030-dotcom/tugas-algoritma-php.git
+2. Jalankan XAMPP/Laragon. 
+3. Simpan folder ke htdocs. 
+4. Buka di browser: 
+http://localhost/tugas-algoritma-php
+
+## Screenshot
+
+![Tampilan Program](screenshot.png)
