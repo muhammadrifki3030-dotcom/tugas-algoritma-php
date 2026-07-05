@@ -67,4 +67,4 @@ http://localhost/tugas-algoritma-php
 
 ## Screenshot
 
-![Tampilan Program](screenshot.png)
+![Tampilan Program](Screenshot.png)
