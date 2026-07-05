@@ -34,3 +34,12 @@ Program ini digunakan untuk menghitung total pembayaran belanja dengan sistem di
 - **Responsive Design** - Tampilan menyesuaikan di berbagai ukuran layar
 
 --
+
+## Cara menjalankan
+1. Clone repository ini:
+  ```bash
+https://github.com/muhammadrifki3030-dotcom/tugas-algoritma-php.git
+
+## Screenshot
+
+![Tampilan Program](screenshot.png)
