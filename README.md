@@ -40,6 +40,6 @@ Program ini digunakan untuk menghitung total pembayaran belanja dengan sistem di
   ```bash
 https://github.com/muhammadrifki3030-dotcom/tugas-algoritma-php.git
 
-## Screenshot
+## Sreenshot
 
-![Tampilan Program](screenshot.png)
+![Tampilan Program](sreenshot.png)
